@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Pokrajinski muzej Koper</title>
+		<link>http://www.pokrajinskimuzejkoper.si/si/rss</link>
+		<lastBuildDate>Tue, 04 Mar 2014 13:11:33 +0100</lastBuildDate>
+		<description>Najobsežnejši muzej Slovenske Istre z bogatimi zbirkami od prazgodovine, do blišča beneškega časa in novejše zgodovine, s prikupno etnološko zbirko.</description>
+		<language>sl-si</language>
+		<ttl>60</ttl>
+		<managingEditor>info@pokrajinskimuzejkoper.si (Pokrajinski muzej Koper)</managingEditor>
+		<webMaster>info@pokrajinskimuzejkoper.si (Pokrajinski muzej Koper)</webMaster>
+		<generator>NGN MEDIA d.o.o. | www.ngn.si</generator>
+        <item>
+			<uid>87</uid>
+			<title>Pričakovanja poln čas</title>
+			<link>http://www.pokrajinskimuzejkoper.si/si/dogodki/pricakovanja-poln-cas</link>
+			<description><![CDATA[Fotografska razstava če&scaron;kega fotografa Jana Lukasa o vzhodnoevropskih beguncih, ki so v &scaron;estdesetih letih prej&scaron;njega stoletja začasno prebivali v Trža&scaron;ki Rižarni. V sodelovanju z Mestni muzejem Trža&scaron;ke Rižarne, Narodni spomenik.]]></description>
+			<location>Muzejska galerija</location>
+			<shows>
+				<show>
+					<uid>87-1</uid>
+					<date>8. marec ob 18h</date>
+                    <timestamp>1394444227</timestamp>
+				</show>
+			</shows>
+            <images>
+                <image>
+					<uid>87</uid>
+					<title>Pričakovanja poln čas</title>
+					<link>http://www.pokrajinskimuzej.si/data/albums/dogodki/b/1_7a11273fa0c6ee756bb51d9933f4a1be</link>
+				</image>
+            </images>
+        </item>
+        <item>
+			<uid>83</uid>
+			<title>Krajinske pripovedi</title>
+			<link>http://www.pokrajinskimuzejkoper.si/si/dogodki/krajinske-pripovedi</link>
+			<description><![CDATA[Na predvečer pričetka XXII Zimskih olimpijskih iger v Sočiju (Rusija) bo potekala otvoritev razstave slikarja Valerija Arhipova in kiparja Dmitrija Tugarinova, ki jo prirejamo v sodelovanju z Ruskim centrom znanosti in kulture v Ljubljani.Razstava bo odprta do 5. marca.]]></description>
+			<location>Muzejska galerija</location>
+			<shows>
+				<show>
+					<uid>83-1</uid>
+					<date></date>
+                    <timestamp>1394447827</timestamp>
+				</show>
+			</shows>
+            <images>
+                <image>
+					<uid>83</uid>
+					<title>Krajinske pripovedi</title>
+					<link>http://www.pokrajinskimuzej.si/data/albums/dogodki/b/1_0448a62ccb62aa0147da71aa1a6ea171</link>
+				</image>
+            </images>
+        </item>
+        <item>
+			<uid>88</uid>
+			<title>Nuba: korenine in semena človeštva</title>
+			<link>http://www.pokrajinskimuzejkoper.si/si/dogodki/nuba-korenina-in-semena-clovestva</link>
+			<description><![CDATA[Srečanje s Tomom in Bojano Križnar.&nbsp; V modrostih, ki so jih ohranili najstarej&scaron;i staroselci v Sudanu, se skriva odgovor, kako preživeti v nastalih razmerah na zemlji. Multivizija o zadnjih akcijah v nubskih gorah:&nbsp;oktober &ndash; december 2013.]]></description>
+			<location>Piano nobile palače Belgramoni Tacco</location>
+			<shows>
+				<show>
+					<uid>88-1</uid>
+					<date>5. marec ob 18h</date>
+                    <timestamp>1394451427</timestamp>
+				</show>
+			</shows>
+            <images>
+                <image>
+					<uid>88</uid>
+					<title>Nuba: korenine in semena človeštva</title>
+					<link>http://www.pokrajinskimuzej.si/data/albums/dogodki/b/1_5aaaf3cd2804ebadc6f39ad069d963b0</link>
+				</image>
+            </images>
+        </item>
+        <item>
+			<uid>85</uid>
+			<title>Branja - Stefano Bronzini</title>
+			<link>http://www.pokrajinskimuzejkoper.si/si/dogodki/branja-stefano-bronzini</link>
+			<description><![CDATA["Branja"&nbsp;so&nbsp;svojevrsten spektakel, v katerem avtor in edini igralec vzpostavi pravi dialog z liki, upodobljenimi v izbranim&nbsp;delih svetovno znanih slikarjev. Gre torej za&nbsp;predstavitev umetni&scaron;kega dela na popolnoma nov, močno oseben in čustven način, za ustvarjanje dialoga med igralcem na odru in liki v slikah. Stefano Bronzini se z njimi pogovarja, jih pooseblja in jim daje življenje.]]></description>
+			<location>Piano nobile palače Belgramoni Tacco</location>
+			<shows>
+				<show>
+					<uid>85-1</uid>
+					<date>4. april 2014 ob 19h</date>
+                    <timestamp>1394534227</timestamp>
+				</show>
+			</shows>
+            <images>
+                <image>
+					<uid>85</uid>
+					<title>Branja - Stefano Bronzini</title>
+					<link>http://www.pokrajinskimuzej.si/data/albums/dogodki/b/1_b5442437c1d6c974d014af43d00be99f</link>
+				</image>
+            </images>
+        </item>
+        <item>
+			<uid>85</uid>
+			<title>Sample - Stefano Bronzini</title>
+			<link>http://www.pokrajinskimuzejkoper.si/si/dogodki/branja-stefano-bronzini</link>
+			<description><![CDATA["Branja"&nbsp;so&nbsp;svojevrsten spektakel, v katerem avtor in edini igralec vzpostavi pravi dialog z liki, upodobljenimi v izbranim&nbsp;delih svetovno znanih slikarjev. Gre torej za&nbsp;predstavitev umetni&scaron;kega dela na popolnoma nov, močno oseben in čustven način, za ustvarjanje dialoga med igralcem na odru in liki v slikah. Stefano Bronzini se z njimi pogovarja, jih pooseblja in jim daje življenje.]]></description>
+			<location>Piano nobile palače Belgramoni Tacco</location>
+			<shows>
+				<show>
+					<uid>85-1</uid>
+					<date>Human readable date</date>
+                    <timestamp>1394455027</timestamp>
+				</show>
+			</shows>
+            <images>
+                <image>
+					<uid>85</uid>
+					<title>Branja - Stefano Bronzini</title>
+					<link>http://www.pokrajinskimuzej.si/data/albums/dogodki/b/1_b5442437c1d6c974d014af43d00be99f</link>
+				</image>
+            </images>
+        </item>
+
+    </channel>
+</rss>
