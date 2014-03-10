@@ -34,14 +34,14 @@
         <item>
 			<uid>83</uid>
 			<title>Krajinske pripovedi</title>
-			<link>http://www.pokrajinskimuzejkoper.si/si/dogodki/krajinske-pripovedi</link>
+			<link>http://www.pokrajinskimuzejkoper.si/si/dogodxxxxxxxxki/krajinske-pripovedi</link>
 			<description><![CDATA[Na predvečer pričetka XXII Zimskih olimpijskih iger v Sočiju (Rusija) bo potekala otvoritev razstave slikarja Valerija Arhipova in kiparja Dmitrija Tugarinova, ki jo prirejamo v sodelovanju z Ruskim centrom znanosti in kulture v Ljubljani.Razstava bo odprta do 5. marca.]]></description>
 			<location>Muzejska galerija</location>
 			<shows>
 				<show>
 					<uid>83-1</uid>
 					<date>Date!</date>
-                    <timestamp>1394366760</timestamp>
+                    <timestamp>1394557495</timestamp>
 				</show>
 			</shows>
             <images>
