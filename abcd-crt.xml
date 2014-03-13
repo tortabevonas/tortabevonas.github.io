@@ -19,7 +19,7 @@
 			<shows>
 				<show>
 					<uid>87-1</uid>
-					<date>8. marec ob 18h</date>
+					<date>2014-03-13 12:57:14</date>
                     <timestamp>1394642919368</timestamp>
 				</show>
 			</shows>
@@ -40,7 +40,7 @@
 			<shows>
 				<show>
 					<uid>83-1</uid>
-					<date>Date!</date>
+					<date>2014-03-13 11:57:14!</date>
                     <timestamp>1394619839863</timestamp>
 				</show>
 			</shows>
@@ -61,7 +61,7 @@
 			<shows>
 				<show>
 					<uid>88-1</uid>
-					<date>5. marec ob 18h</date>
+					<date>2014-03-13 10:57:14</date>
                     <timestamp>1394370360</timestamp>
 				</show>
 			</shows>
@@ -82,7 +82,7 @@
 			<shows>
 				<show>
 					<uid>85-1</uid>
-					<date>4. april 2014 ob 19h</date>
+					<date>2014-03-13 9:57:14</date>
                     <timestamp>1394420760</timestamp>
 				</show>
 			</shows>
@@ -103,7 +103,7 @@
 			<shows>
 				<show>
 					<uid>85-1</uid>
-					<date>Human readable date</date>
+					<date>2014-03-13 18:57:14</date>
                     <timestamp>1394424600</timestamp>
 				</show>
 			</shows>
@@ -129,7 +129,7 @@
 			<shows>
 				<show>
 					<uid>87-1</uid>
-					<date>8. marec ob 18h</date>
+					<date>2014-03-13 7:57:14</date>
                     <timestamp>1394424780</timestamp>
 				</show>
 			</shows>
@@ -150,7 +150,7 @@
 			<shows>
 				<show>
 					<uid>83-1</uid>
-					<date>Date!</date>
+					<date>2014-03-13 07:57:14</date>
                     <timestamp>1394428380</timestamp>
 				</show>
 			</shows>
@@ -171,7 +171,7 @@
 			<shows>
 				<show>
 					<uid>88-1</uid>
-					<date>5. marec ob 18h</date>
+					<date>2014-03-13 6:57:14</date>
                     <timestamp>1394435580</timestamp>
 				</show>
 			</shows>
@@ -192,7 +192,7 @@
 			<shows>
 				<show>
 					<uid>85-1</uid>
-					<date>4. april 2014 ob 19h</date>
+					<date>2014-02-15 5:57:14</date>
                     <timestamp>1394439180</timestamp>
 				</show>
 			</shows>
@@ -213,7 +213,7 @@
 			<shows>
 				<show>
 					<uid>85-1</uid>
-					<date>Human readable date</date>
+					<date>2014-03-13 11:52:14</date>
                     <timestamp>1394439420</timestamp>
 				</show>
 			</shows>
