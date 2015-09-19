@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<script type="text/javascript">
-		document.onload = function() {
+		function onload() {
 			setTimeout(function(){
 			// 	//window.location.href = "julianlennon://blablabla.bla/asdklals/asdlas";
 				document.getElementById("frm").src = "julianlennon://blablabla.bla/asdklals/asdlas";
@@ -10,7 +10,7 @@
 		}
 		</script>
 	</head>
-	<body>
+	<body onload="onload()">
 		<h1>
 			App-only content!
 		</h1>
