@@ -9,14 +9,17 @@
 			document.getElementById("frm").src="about:blank";
 			setTimeout(function(){
 			// 	//window.location.href = "julianlennon://blablabla.bla/asdklals/asdlas";
+				var dbg=document.getElementById("dbg");
+				dbg.innerHTML+="Setting...<br/>";
 				document.getElementById("frm").src = "julianlennon://appon.ly/"+Math.random()+"?&url="+getURLParameter("url");
+				dbg.innerHTML+="Set!<br/>";
 			}, 1000);
 		}
 		</script>
 		<style type="text/css">
 			body {
 				/*background-color: #204040;*/
-				background-color: #cc10d0;
+				background-color: #342930;
 			}
 		</style>
 	</head>
@@ -27,5 +30,7 @@
 		<a href="http://play.google.com/">Click here to get the app!</a>
 		<iframe id="frm">
 		</iframe>
+		<div id="dbg">
+		</div>
 	</body>
 </html>
