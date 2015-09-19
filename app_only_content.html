@@ -11,14 +11,18 @@
 				var dbg=document.getElementById("dbg");
 				var magicUrl="julianlennon://appon.ly/"+Math.random()+"?&url="+getURLParameter("url");
 				document.getElementById("frm").src = magicUrl;
-				window.location.href = magicUrl;
+				//window.location.href = magicUrl;
 			}, 100);
+
+			function dbg(m) {
+				document.getElementById("dbg").innerHTML+=m+"<br/>";
+			}
 		}
 		</script>
 		<style type="text/css">
 			body {
 				/*background-color: #204040;*/
-				background-color: #327482;
+				background-color: #324783;
 			}
 		</style>
 	</head>
@@ -27,7 +31,7 @@
 			App-only content!
 		</h1>
 		<a href="http://play.google.com/">Click here to get the app!</a>
-		<iframe id="frm">
+		<iframe id="frm" onload="dbg('onload!')">
 		</iframe>
 		<div id="dbg">
 		</div>
