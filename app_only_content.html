@@ -8,18 +8,16 @@
 			}
 			document.getElementById("frm").src="about:blank";
 			setTimeout(function(){
-			// 	//window.location.href = "julianlennon://blablabla.bla/asdklals/asdlas";
 				var dbg=document.getElementById("dbg");
-				dbg.innerHTML+="Setting...<br/>";
-				document.getElementById("frm").src = "julianlennon://appon.ly/"+Math.random()+"?&url="+getURLParameter("url");
-				dbg.innerHTML+="Set!<br/>";
-			}, 1000);
+				var magicUrl="julianlennon://appon.ly/"+Math.random()+"?&url="+getURLParameter("url")
+				document.getElementById("frm").location.href = magicUrl;
+			}, 100);
 		}
 		</script>
 		<style type="text/css">
 			body {
 				/*background-color: #204040;*/
-				background-color: #342930;
+				background-color: #903242;
 			}
 		</style>
 	</head>
