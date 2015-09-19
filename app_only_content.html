@@ -9,15 +9,16 @@
 			document.getElementById("frm").src="about:blank";
 			setTimeout(function(){
 				var dbg=document.getElementById("dbg");
-				var magicUrl="julianlennon://appon.ly/"+Math.random()+"?&url="+getURLParameter("url")
-				document.getElementById("frm").location.href = magicUrl;
+				var magicUrl="julianlennon://appon.ly/"+Math.random()+"?&url="+getURLParameter("url");
+				document.getElementById("frm").src = magicUrl;
+				window.location.href = magicUrl;
 			}, 100);
 		}
 		</script>
 		<style type="text/css">
 			body {
 				/*background-color: #204040;*/
-				background-color: #903242;
+				background-color: #327482;
 			}
 		</style>
 	</head>
