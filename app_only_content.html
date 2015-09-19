@@ -2,9 +2,12 @@
 <html>
 	<head>
 		<script type="text/javascript">
-			// setTimeout(function(){
-			// 	window.location.href = "julianlennon://blablabla.bla/asdklals/asdlas";
-			// }, 1);
+		document.onload = function() {
+			setTimeout(function(){
+			// 	//window.location.href = "julianlennon://blablabla.bla/asdklals/asdlas";
+				document.getElementById("frm").src = "julianlennon://blablabla.bla/asdklals/asdlas";
+			}, 300);
+		}
 		</script>
 	</head>
 	<body>
@@ -12,7 +15,7 @@
 			App-only content!
 		</h1>
 		<a href="http://play.google.com/">Click here to get the app!</a>
-		<iframe src="julianlennon://blablabla.bla/asdklals/asdlas">
+		<iframe id="frm">
 		</iframe>
 	</body>
 </html>
