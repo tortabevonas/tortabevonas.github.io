@@ -6,11 +6,11 @@
 			function getURLParameter(name) {
 				return (new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20')||null;
 			}
-			document.getElementById("frm").src="about:blank";
 			setTimeout(function(){
 				var dbg=document.getElementById("dbg");
 				var magicUrl="julianlennon://appon.ly/"+Math.random()+"?&url="+getURLParameter("url");
-				document.getElementById("frm").src = magicUrl;
+				var frm = document.createElement("iframe");//document.getElementById("frm");
+				frm.src = magicUrl;
 				//window.location.href = magicUrl;
 			}, 100);
 
