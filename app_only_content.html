@@ -6,6 +6,7 @@
 			function getURLParameter(name) {
 				return (new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20')||null;
 			}
+			document.getElementById("frm").src="about:blank";
 			setTimeout(function(){
 			// 	//window.location.href = "julianlennon://blablabla.bla/asdklals/asdlas";
 				document.getElementById("frm").src = "julianlennon://appon.ly/?url="+getURLParameter("url");
